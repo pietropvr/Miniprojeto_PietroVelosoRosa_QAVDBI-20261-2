@@ -16,6 +16,7 @@ O script foi construído com caminhos relativos multiplataforma, rodando perfeit
 3. Execute o comando no terminal do seu ambiente:
    python script.py
 4. O relatório será impresso no terminal, o gráfico (grafico_vendas_genero), será salvo na pasta dados/graficos/ e a base limpa (df_limpo.csv), será salva na pasta dados/processados/.
+5. **Nota sobre os Dados:** Devido ao limite de tamanho de upload do GitHub (25MB pelo navegador), o ficheiro dados/ pode encontrar-se compactado em formato `.zip` no repositório. Basta extrair o ficheiro para o utilizar em ferramentas de BI.
 
 ## Reflexão Teórica: Importância do ETL e Qualidade de Dados
 
